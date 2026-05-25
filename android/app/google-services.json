@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161453979307",
+    "project_id": "ur-points",
+    "storage_bucket": "ur-points.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161453979307:android:00ae9719faa50656bea9ee",
+        "android_client_info": {
+          "package_name": "com.ledo.urpoints"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEQf28PveLq1VaFtITidW77gXuXzPzwB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
